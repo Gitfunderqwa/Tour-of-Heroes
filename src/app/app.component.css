@@ -1,0 +1,16 @@
+.nav-button {
+    color: #333;
+    background-color: #eee;
+    margin-bottom: 12px;
+    padding: 1rem;
+    border-radius: 4px;
+    font-size: 1.5rem;
+    text-decoration: none;
+  }
+.nav-button:hover {
+    color: white;
+    background-color: #42545C;
+    text-decoration: none;
+  }
+
+
